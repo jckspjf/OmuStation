@@ -3641,3 +3641,13 @@ Entries:
       message: Removed Chloris from map rotation.
   id: 468
   time: '2026-05-02T21:21:14.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Tweak
+      message: >-
+        Abductors now are back to having the normal IFF console rather than the
+        syndicate one.
+    - type: Fix
+      message: Fixed Abductors being able to abduct people across maps.
+  id: 469
+  time: '2026-05-03T11:46:12.0000000+00:00'
