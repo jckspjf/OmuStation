@@ -3861,3 +3861,20 @@ Entries:
       message: Ported the synth trait from DV
   id: 491
   time: '2026-05-09T22:11:39.0000000+00:00'
+- author: Marikii
+  changes:
+    - type: Add
+      message: >-
+        Vulps can now yip, yap and gekker. Feroxi can now chirp and squeak,
+        rodentia can now squee (alternate squeak) and snort!
+    - type: Tweak
+      message: >-
+        Avali and Resomi can now growl and hiss, felinids and tajarans can now
+        trill!
+    - type: Tweak
+      message: >-
+        Moths, arachnids and chitinids now have species-specific sounds for
+        crying, gasping, yawning, sighing and coughing. Resomi and Avali have a
+        species-specific sound for yawning (deathgasp from Starlight, tee-hee..)
+  id: 492
+  time: '2026-05-09T22:22:19.0000000+00:00'
