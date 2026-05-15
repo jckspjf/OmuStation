@@ -4036,3 +4036,9 @@ Entries:
         initial but not adressed
   id: 512
   time: '2026-05-15T05:42:59.0000000+00:00'
+- author: LukaSlade
+  changes:
+    - type: Tweak
+      message: Xelthia can now freely drink coffee and eat raw meat.
+  id: 513
+  time: '2026-05-15T10:09:45.0000000+00:00'
