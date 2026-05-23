@@ -4180,3 +4180,11 @@ Entries:
       message: Changed the RPD in CE's locker to a unique experimental version
   id: 532
   time: '2026-05-23T21:52:42.0000000+00:00'
+- author: BramvanZijp
+  changes:
+    - type: Fix
+      message: >-
+        Fixed having items a soul (PAIs, MMIs, Posibrains, Mice/Roaches, etc.)
+        preventing you from raising/planting a shield.
+  id: 533
+  time: '2026-05-23T21:58:18.0000000+00:00'
