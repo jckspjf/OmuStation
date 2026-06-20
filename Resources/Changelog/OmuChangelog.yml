@@ -4638,3 +4638,9 @@ Entries:
       message: Abductor's EMP glands have less range potency and effect duration
   id: 596
   time: '2026-06-20T21:13:59.0000000+00:00'
+- author: Willzile1
+  changes:
+    - type: Add
+      message: 'Added a new map: Crystal Station'
+  id: 597
+  time: '2026-06-20T21:27:19.0000000+00:00'
