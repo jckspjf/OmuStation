@@ -4612,3 +4612,9 @@ Entries:
         are now made in a microwave again.
   id: 592
   time: '2026-06-20T19:44:30.0000000+00:00'
+- author: jckspjf
+  changes:
+    - type: Tweak
+      message: AI now properly has access to prison comms.
+  id: 593
+  time: '2026-06-20T20:58:58.0000000+00:00'
