@@ -4624,3 +4624,11 @@ Entries:
       message: Radial menu added to Janitorial Trolleys and Survival boxes
   id: 594
   time: '2026-06-20T21:09:44.0000000+00:00'
+- author: raincally
+  changes:
+    - type: Tweak
+      message: >-
+        Pun pun role timer requirements lowered. 15 bartender hours -> 5 overall
+        hours
+  id: 595
+  time: '2026-06-20T21:10:47.0000000+00:00'
