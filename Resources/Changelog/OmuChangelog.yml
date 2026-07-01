@@ -4744,3 +4744,9 @@ Entries:
       message: added pirate clothes to the autodrobe
   id: 612
   time: '2026-07-01T22:02:45.0000000+00:00'
+- author: harryhulse12-alt
+  changes:
+    - type: Fix
+      message: Fixed everything getting tau
+  id: 613
+  time: '2026-07-01T22:04:15.0000000+00:00'
