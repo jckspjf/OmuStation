@@ -4750,3 +4750,11 @@ Entries:
       message: Fixed everything getting tau
   id: 613
   time: '2026-07-01T22:04:15.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Tweak
+      message: Allulalo now get drunk from water instead of ethanol
+    - type: Tweak
+      message: Allulalo get hydrated by ethanol instead of water
+  id: 614
+  time: '2026-07-01T22:09:26.0000000+00:00'
