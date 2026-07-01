@@ -4758,3 +4758,9 @@ Entries:
       message: Allulalo get hydrated by ethanol instead of water
   id: 614
   time: '2026-07-01T22:09:26.0000000+00:00'
+- author: CayDaShork
+  changes:
+    - type: Add
+      message: Added new tech to craft Spaceproof Cyberbeast Mantles to science
+  id: 615
+  time: '2026-07-01T23:36:09.0000000+00:00'
