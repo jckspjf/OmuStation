@@ -4856,3 +4856,9 @@ Entries:
       message: All IPC hand markings show up in the hand category now.
   id: 629
   time: '2026-07-10T23:12:42.0000000+00:00'
+- author: feistyfedora
+  changes:
+    - type: Fix
+      message: 'Fixed xeno nodes causing errors. '
+  id: 630
+  time: '2026-07-10T23:15:58.0000000+00:00'
