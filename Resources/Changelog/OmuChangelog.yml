@@ -4790,3 +4790,9 @@ Entries:
       message: gave the CC loudspeaker headset to the NTR and ERT leaders
   id: 619
   time: '2026-07-10T13:08:06.0000000+00:00'
+- author: jckspjf
+  changes:
+    - type: Fix
+      message: Administrative Assistant now properly has command priority when rolling.
+  id: 620
+  time: '2026-07-10T21:38:28.0000000+00:00'
