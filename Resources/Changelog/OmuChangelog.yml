@@ -4844,3 +4844,9 @@ Entries:
       message: Changed moth wings to be under Wings marking.
   id: 627
   time: '2026-07-10T22:11:13.0000000+00:00'
+- author: TheGoatSinofIust
+  changes:
+    - type: Fix
+      message: Fixed horn and tails not working on slime people.
+  id: 628
+  time: '2026-07-10T22:12:38.0000000+00:00'
