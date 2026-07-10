@@ -4822,3 +4822,13 @@ Entries:
       message: Added scars to Felinids, Feroxi, Oni, and Yowie
   id: 624
   time: '2026-07-10T21:52:04.0000000+00:00'
+- author: archee1
+  changes:
+    - type: Tweak
+      message: >-
+        water tanks and other 'wall-like' entities that aren't walls, are no
+        longer treated like walls.
+    - type: Fix
+      message: the mini gravity generator now weighs a realistic amount.
+  id: 625
+  time: '2026-07-10T21:57:18.0000000+00:00'
