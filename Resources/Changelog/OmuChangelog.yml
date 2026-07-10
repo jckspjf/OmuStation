@@ -4816,3 +4816,9 @@ Entries:
       message: cargo's SMES farming has been nerfed to 1/3rd of what it was before.
   id: 623
   time: '2026-07-10T21:49:19.0000000+00:00'
+- author: TheGoatSinofIust
+  changes:
+    - type: Add
+      message: Added scars to Felinids, Feroxi, Oni, and Yowie
+  id: 624
+  time: '2026-07-10T21:52:04.0000000+00:00'
