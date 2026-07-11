@@ -4958,3 +4958,11 @@ Entries:
         clones.
   id: 642
   time: '2026-07-11T17:50:27.0000000+00:00'
+- author: SirCannonFodder
+  changes:
+    - type: Tweak
+      message: >-
+        Cyborgs now run Crewimov with an added chassis law and a reminder for
+        law priority.
+  id: 643
+  time: '2026-07-11T17:59:53.0000000+00:00'
