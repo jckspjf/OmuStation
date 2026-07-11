@@ -4870,3 +4870,9 @@ Entries:
         different type of wing.
   id: 631
   time: '2026-07-11T16:58:56.0000000+00:00'
+- author: harryhulse12-alt
+  changes:
+    - type: Fix
+      message: Fixed a CTD on the SM monitoring console
+  id: 632
+  time: '2026-07-11T17:02:23.0000000+00:00'
