@@ -4898,3 +4898,9 @@ Entries:
       message: Fixed monolith shuttleguns to no longer fail to recharge.
   id: 635
   time: '2026-07-11T17:25:08.0000000+00:00'
+- author: TheGoatSinofIust
+  changes:
+    - type: Add
+      message: added 93 new multi-species hairs
+  id: 636
+  time: '2026-07-11T17:32:06.0000000+00:00'
