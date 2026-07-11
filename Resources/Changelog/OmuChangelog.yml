@@ -4928,3 +4928,9 @@ Entries:
         removed, and the price of spesos and survival medipens increased.
   id: 639
   time: '2026-07-11T17:45:42.0000000+00:00'
+- author: CliveOcelot, Imp
+  changes:
+    - type: Add
+      message: Ported the AAC tablet from Imp/DeltaV
+  id: 640
+  time: '2026-07-11T17:45:56.0000000+00:00'
