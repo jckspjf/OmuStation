@@ -4912,3 +4912,11 @@ Entries:
         crewmembers that are inside a bag
   id: 637
   time: '2026-07-11T17:34:19.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Tweak
+      message: >-
+        Replace chat coalescing with chatstack (Check your options menu for more
+        details)
+  id: 638
+  time: '2026-07-11T17:38:31.0000000+00:00'
