@@ -4892,3 +4892,9 @@ Entries:
       message: Bingle pit no longer takes structural damage.
   id: 634
   time: '2026-07-11T17:16:31.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Fix
+      message: Fixed monolith shuttleguns to no longer fail to recharge.
+  id: 635
+  time: '2026-07-11T17:25:08.0000000+00:00'
