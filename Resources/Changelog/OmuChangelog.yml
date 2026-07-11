@@ -4862,3 +4862,11 @@ Entries:
       message: 'Fixed xeno nodes causing errors. '
   id: 630
   time: '2026-07-10T23:15:58.0000000+00:00'
+- author: TheGoatSinofIust
+  changes:
+    - type: Fix
+      message: >-
+        Fixed default wings for Harpy not disappearing when selecting a
+        different type of wing.
+  id: 631
+  time: '2026-07-11T16:58:56.0000000+00:00'
