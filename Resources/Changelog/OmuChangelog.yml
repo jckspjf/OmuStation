@@ -4920,3 +4920,11 @@ Entries:
         details)
   id: 638
   time: '2026-07-11T17:38:31.0000000+00:00'
+- author: Aureu-K
+  changes:
+    - type: Tweak
+      message: >-
+        The Salvage Vendor's inventory has new items added, brute/burn kits
+        removed, and the price of spesos and survival medipens increased.
+  id: 639
+  time: '2026-07-11T17:45:42.0000000+00:00'
