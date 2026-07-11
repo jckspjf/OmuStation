@@ -4904,3 +4904,11 @@ Entries:
       message: added 93 new multi-species hairs
   id: 636
   time: '2026-07-11T17:32:06.0000000+00:00'
+- author: NotActuallyMarty
+  changes:
+    - type: Fix
+      message: >-
+        Admins will no longer be compulsively compelled to accidentally pick up
+        crewmembers that are inside a bag
+  id: 637
+  time: '2026-07-11T17:34:19.0000000+00:00'
