@@ -5027,3 +5027,12 @@ Entries:
       message: Russian accent is now available from the speech category
   id: 652
   time: '2026-07-12T02:10:42.0000000+00:00'
+- author: Duuckie
+  changes:
+    - type: Fix
+      message: >-
+        The content warning's reject button no longer clips off the bottom of
+        the popup at certain aspect ratios. The text received minor changes for
+        a better reading experience.
+  id: 653
+  time: '2026-07-12T13:47:52.0000000+00:00'
