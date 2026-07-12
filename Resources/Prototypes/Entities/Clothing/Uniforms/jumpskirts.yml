@@ -552,6 +552,9 @@
   name: security jumpskirt
   description: A jumpskirt made of strong material, providing robust protection.
   components:
+  - type: Tag #Omu
+    tags:
+    - SecurityJumpsuit
   - type: Sprite
     sprite: _Goobstation/Clothing/Uniforms/Jumpskirt/Security/security.rsi # Goob
   - type: Clothing
@@ -855,6 +858,9 @@
   name: senior officer jumpskirt
   description: A sign of skill and prestige within the security department.
   components:
+  - type: Tag #Omu
+    tags:
+    - SecurityJumpsuit
   - type: Sprite
     sprite: _Goobstation/Clothing/Uniforms/Jumpskirt/Security/senior_officer.rsi # Goob
   - type: Clothing
@@ -866,6 +872,9 @@
   name: grey security jumpskirt
   description: A tactical relic of years past before Nanotrasen decided it was cheaper to dye the suits red instead of washing out the blood.
   components:
+  - type: Tag #Omu
+    tags:
+    - SecurityJumpsuit
   - type: Sprite
     sprite: _Goobstation/Clothing/Uniforms/Jumpskirt/Security/security_grey.rsi # Goob
   - type: Clothing

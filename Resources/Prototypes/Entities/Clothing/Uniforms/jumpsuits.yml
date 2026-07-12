@@ -773,6 +773,9 @@
     sprite: _Goobstation/Clothing/Uniforms/Jumpsuit/Security/security.rsi # Goob
   - type: Clothing
     sprite: _Goobstation/Clothing/Uniforms/Jumpsuit/Security/security.rsi # Goob
+  - type: Tag #Omu
+    tags:
+    - SecurityJumpsuit
   - type: Item
     inhandVisuals:
       left:
@@ -792,6 +795,9 @@
   name: blue shirt and tie
   description: I'm a little busy right now, Calhoun.
   components:
+  - type: Tag #Omu
+    tags:
+    - SecurityJumpsuit
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpsuit/security_blue.rsi
   - type: Clothing
@@ -803,6 +809,9 @@
   name: grey security jumpsuit
   description: A tactical relic of years past before Nanotrasen decided it was cheaper to dye the suits red instead of washing out the blood.
   components:
+  - type: Tag #Omu
+    tags:
+    - SecurityJumpsuit
   - type: Sprite
     sprite: _Goobstation/Clothing/Uniforms/Jumpsuit/Security/security_grey.rsi # Goob
   - type: Clothing
@@ -814,6 +823,9 @@
   name: trooper uniform
   description: A formal uniform issued to the Nanotrasen Troopers, usually it comes with a car.
   components:
+  - type: Tag #Omu
+    tags:
+    - SecurityJumpsuit
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpsuit/security_trooper.rsi
   - type: Clothing
@@ -1377,6 +1389,9 @@
   name: senior officer jumpsuit
   description: A sign of skill and prestige within the security department.
   components:
+  - type: Tag #Omu
+    tags:
+    - SecurityJumpsuit
   - type: Sprite
     sprite: _Goobstation/Clothing/Uniforms/Jumpsuit/Security/senior_officer.rsi # goob
   - type: Clothing

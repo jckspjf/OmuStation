@@ -412,6 +412,9 @@
   - type: Insulated
   - type: Fiber
     fiberMaterial: fibers-insulative
+  - type: Construction # Omu
+    graph: ClothingHandsGlovesCombat
+    node: glovesCombat
   - type: Armor # Goob
     modifiers:
       coefficients:

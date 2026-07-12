@@ -63,3 +63,9 @@
   
 - type: Tag
   id: RollerBedCompact
+
+- type: Tag
+  id: SecurityJumpsuit
+
+- type: Tag
+  id: InsulatedGloves

@@ -1,0 +1,26 @@
+- type: constructionGraph
+  id: ClothingHandsGlovesCombat
+  start: start
+  graph:
+    - node: start
+      edges:
+        - to: glovesCombat
+          steps:
+            - tag: InsulatedGloves
+              name: construction-graph-tag-insulated-gloves
+              icon:
+                sprite: Clothing/Hands/Gloves/Color/yellow.rsi
+                state: icon
+              doAfter: 5
+            - tag: SecurityJumpsuit
+              name: construction-graph-tag-sec-jumpsuit
+              icon:
+                sprite: Clothing/Uniforms/Jumpsuit/security.rsi
+                state: icon
+              doAfter: 5
+            - material: Durathread
+              amount: 5
+              doAfter: 5
+
+    - node: glovesCombat
+      entity: ClothingHandsGlovesCombat
