@@ -5042,3 +5042,9 @@ Entries:
       message: CC mapping, both the event CC and end round CC
   id: 654
   time: '2026-07-13T00:43:23.0000000+00:00'
+- author: Aureu-K
+  changes:
+    - type: Tweak
+      message: Traitor, Sleeper agent, and Thief now have a 5 hour time requirement.
+  id: 655
+  time: '2026-07-13T01:00:29.0000000+00:00'
