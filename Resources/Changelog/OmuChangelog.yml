@@ -5036,3 +5036,9 @@ Entries:
         a better reading experience.
   id: 653
   time: '2026-07-12T13:47:52.0000000+00:00'
+- author: Thesia000
+  changes:
+    - type: Tweak
+      message: CC mapping, both the event CC and end round CC
+  id: 654
+  time: '2026-07-13T00:43:23.0000000+00:00'
