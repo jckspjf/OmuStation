@@ -5106,3 +5106,9 @@ Entries:
         is to test and will be reverted in 1 week on the 25th of July
   id: 664
   time: '2026-07-18T20:06:36.0000000+00:00'
+- author: Archee and Quill
+  changes:
+    - type: Add
+      message: Clean HUDs are a new researchable tool for Janitors.
+  id: 665
+  time: '2026-07-18T21:55:15.0000000+00:00'
