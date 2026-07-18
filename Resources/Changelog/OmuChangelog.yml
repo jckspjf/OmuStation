@@ -5080,3 +5080,9 @@ Entries:
       message: Added Blueshield officer stamp to their locker!
   id: 660
   time: '2026-07-18T17:05:49.0000000+00:00'
+- author: feistyfedora
+  changes:
+    - type: Tweak
+      message: 'Silk can now be stored in pockets. '
+  id: 661
+  time: '2026-07-18T17:37:11.0000000+00:00'
