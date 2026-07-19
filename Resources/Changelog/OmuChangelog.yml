@@ -5204,3 +5204,11 @@ Entries:
       message: Ported Vox Paramedic Hardsuit Helmet from Goobstation
   id: 678
   time: '2026-07-19T17:53:38.0000000+00:00'
+- author: Duuckie
+  changes:
+    - type: Tweak
+      message: >-
+        Hercuri in the bloodstream now works on dead people, can cool down to
+        73.15K, and cools corpses twice as much as alive people.
+  id: 679
+  time: '2026-07-19T18:21:38.0000000+00:00'
