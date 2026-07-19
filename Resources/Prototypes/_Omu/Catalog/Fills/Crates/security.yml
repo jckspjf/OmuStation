@@ -1,6 +1,6 @@
 - type: entity
   id: CrateSecurityCombatGloves
-  parent: CrateGenericSteel
+  parent: CrateSecgear
   name: combat gloves crate
   description: A crate containing two pairs of combat gloves.
   components:

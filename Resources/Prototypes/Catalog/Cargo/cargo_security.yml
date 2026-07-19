@@ -114,13 +114,3 @@
   cost: 250
   category: cargoproduct-category-name-security
   group: market
-
-- type: cargoProduct #Omu Start
-  id: SecurityCombatGloves
-  icon:
-    sprite: Clothing/Hands/Gloves/combat.rsi
-    state: icon
-  product: CrateSecurityCombatGloves
-  cost: 5500
-  category: cargoproduct-category-name-security
-  group: market #Omu End
