@@ -5156,3 +5156,11 @@ Entries:
       message: Updated the Harpy Paramedic Hardsuit to match the rest of the sprites.
   id: 671
   time: '2026-07-19T14:35:13.0000000+00:00'
+- author: 4Hangar
+  changes:
+    - type: Add
+      message: >-
+        Added the Security Training Manual as an item, it can be found in HoS'
+        locker.
+  id: 672
+  time: '2026-07-19T15:02:00.0000000+00:00'
