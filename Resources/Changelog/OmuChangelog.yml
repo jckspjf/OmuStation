@@ -5164,3 +5164,9 @@ Entries:
         locker.
   id: 672
   time: '2026-07-19T15:02:00.0000000+00:00'
+- author: Duuckie
+  changes:
+    - type: Add
+      message: Mimes and other mute characters can make noise by blinking.
+  id: 673
+  time: '2026-07-19T16:44:27.0000000+00:00'
