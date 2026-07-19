@@ -5176,3 +5176,19 @@ Entries:
       message: BugBorg hats fit the chassis better.
   id: 674
   time: '2026-07-19T16:55:55.0000000+00:00'
+- author: Duuckie
+  changes:
+    - type: Add
+      message: >-
+        The AAC tablet (and jailbroken version) have an expanded and polished
+        Omu-specific vocabulary.
+  id: 675
+  time: '2026-07-19T17:09:04.0000000+00:00'
+- author: harryhulse12-alt
+  changes:
+    - type: Tweak
+      message: Changed chloral hydrate to need 8u to sleep now
+    - type: Tweak
+      message: Changed tranq shells to only contain 4 units of chloral hydrate
+  id: 676
+  time: '2026-07-19T17:10:18.0000000+00:00'
