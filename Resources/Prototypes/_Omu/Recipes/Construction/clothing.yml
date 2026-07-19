@@ -45,11 +45,3 @@
   targetNode: gogglesJamJarDiag
   category: construction-category-clothing
   objectType: Item
-
-- type: construction
-  id: glovesCombat
-  graph: ClothingHandsGlovesCombat
-  startNode: start
-  targetNode: glovesCombat
-  category: construction-category-clothing
-  objectType: Item
