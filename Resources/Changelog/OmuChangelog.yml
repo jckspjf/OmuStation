@@ -5138,3 +5138,15 @@ Entries:
         once Lavaland is back.
   id: 669
   time: '2026-07-19T11:44:55.0000000+00:00'
+- author: DuskTheSnep
+  changes:
+    - type: Add
+      message: >-
+        Added Vulpkanin, Feroxi, Reptilian, and Harpy sprites to the CSI-122M
+        "Xiézhù" Hardsuit.
+    - type: Add
+      message: >-
+        Also added Vulpkanin, Feroxi, Reptilian, and Harpy sprites to the
+        Syndiesuit that Nobody uses. (CSI-128X "Guānlián")
+  id: 670
+  time: '2026-07-19T14:34:32.0000000+00:00'
