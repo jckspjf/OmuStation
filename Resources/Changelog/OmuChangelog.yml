@@ -5192,3 +5192,31 @@ Entries:
       message: Changed tranq shells to only contain 4 units of chloral hydrate
   id: 676
   time: '2026-07-19T17:10:18.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Fix
+      message: 'Fixed unlisted chems from granting max energy to chem dispensers. '
+  id: 677
+  time: '2026-07-19T17:51:39.0000000+00:00'
+- author: DuskTheSnep
+  changes:
+    - type: Add
+      message: Ported Vox Paramedic Hardsuit Helmet from Goobstation
+  id: 678
+  time: '2026-07-19T17:53:38.0000000+00:00'
+- author: Duuckie
+  changes:
+    - type: Tweak
+      message: >-
+        Hercuri in the bloodstream now works on dead people, can cool down to
+        73.15K, and cools corpses twice as much as alive people.
+  id: 679
+  time: '2026-07-19T18:21:38.0000000+00:00'
+- author: archee1
+  changes:
+    - type: Tweak
+      message: >-
+        Anomaly Synchronizers now have an internal battery to keep them active
+        during short power hiccups.
+  id: 680
+  time: '2026-07-19T18:22:03.0000000+00:00'
