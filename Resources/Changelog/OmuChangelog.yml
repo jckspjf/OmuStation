@@ -5226,3 +5226,12 @@ Entries:
       message: Added reflectors
   id: 681
   time: '2026-07-19T19:41:08.0000000+00:00'
+- author: harryhulse12-alt
+  changes:
+    - type: Add
+      message: >-
+        Added Supermatter events, the rock will now cause events if fed
+        agitating gas mixes, can be mitigated with low gas mixes or utilised for
+        extra flavour.
+  id: 682
+  time: '2026-07-19T20:34:31.0000000+00:00'
