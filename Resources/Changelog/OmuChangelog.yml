@@ -5170,3 +5170,9 @@ Entries:
       message: Mimes and other mute characters can make noise by blinking.
   id: 673
   time: '2026-07-19T16:44:27.0000000+00:00'
+- author: feistyfedora
+  changes:
+    - type: Tweak
+      message: BugBorg hats fit the chassis better.
+  id: 674
+  time: '2026-07-19T16:55:55.0000000+00:00'
