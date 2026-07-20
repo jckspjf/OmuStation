@@ -5266,3 +5266,11 @@ Entries:
         static price.
   id: 686
   time: '2026-07-20T10:49:02.0000000+00:00'
+- author: nnif1
+  changes:
+    - type: Add
+      message: Added the Foam Minigun try and win it from the slot machines!!
+    - type: Remove
+      message: the slot machine can no longer be emaged to give out random items
+  id: 687
+  time: '2026-07-20T14:46:28.0000000+00:00'
