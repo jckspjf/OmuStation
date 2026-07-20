@@ -5235,3 +5235,9 @@ Entries:
         extra flavour.
   id: 682
   time: '2026-07-19T20:34:31.0000000+00:00'
+- author: Aureu-K
+  changes:
+    - type: Add
+      message: Added mystery sectoral plushies to trinket loadout.
+  id: 683
+  time: '2026-07-20T03:03:56.0000000+00:00'
