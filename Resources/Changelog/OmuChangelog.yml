@@ -5274,3 +5274,13 @@ Entries:
       message: the slot machine can no longer be emaged to give out random items
   id: 687
   time: '2026-07-20T14:46:28.0000000+00:00'
+- author: DuskTheSnep
+  changes:
+    - type: Add
+      message: Readded the siren to the Paramedic Hardsuit
+    - type: Add
+      message: >-
+        Additionally, added new sirens to the Cybersun Paramedic Hardsuit and
+        Modsuit.
+  id: 688
+  time: '2026-07-20T17:13:37.0000000+00:00'
