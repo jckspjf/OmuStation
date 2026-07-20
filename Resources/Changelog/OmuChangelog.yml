@@ -5292,3 +5292,12 @@ Entries:
         Glasstle now contains Desoxyephedrine.
   id: 689
   time: '2026-07-20T20:24:17.0000000+00:00'
+- author: Not-Solid
+  changes:
+    - type: Fix
+      message: >-
+        Fixed the client crashing on startup for players on
+        GLES/compatibility-mode renderers (e.g. Qualcomm/Snapdragon ARM devices)
+        due to a shader compile error in the Photophobia effect.
+  id: 690
+  time: '2026-07-20T22:45:54.0000000+00:00'
