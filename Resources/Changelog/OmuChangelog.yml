@@ -5266,3 +5266,44 @@ Entries:
         static price.
   id: 686
   time: '2026-07-20T10:49:02.0000000+00:00'
+- author: nnif1
+  changes:
+    - type: Add
+      message: Added the Foam Minigun try and win it from the slot machines!!
+    - type: Remove
+      message: the slot machine can no longer be emaged to give out random items
+  id: 687
+  time: '2026-07-20T14:46:28.0000000+00:00'
+- author: DuskTheSnep
+  changes:
+    - type: Add
+      message: Readded the siren to the Paramedic Hardsuit
+    - type: Add
+      message: >-
+        Additionally, added new sirens to the Cybersun Paramedic Hardsuit and
+        Modsuit.
+  id: 688
+  time: '2026-07-20T17:13:37.0000000+00:00'
+- author: Duuckie
+  changes:
+    - type: Tweak
+      message: >-
+        Ambrosia Vulgaris and Ambrosia Deus no longer contain Desoxyephedrine;
+        Glasstle now contains Desoxyephedrine.
+  id: 689
+  time: '2026-07-20T20:24:17.0000000+00:00'
+- author: Not-Solid
+  changes:
+    - type: Fix
+      message: >-
+        Fixed the client crashing on startup for players on
+        GLES/compatibility-mode renderers (e.g. Qualcomm/Snapdragon ARM devices)
+        due to a shader compile error in the Photophobia effect.
+  id: 690
+  time: '2026-07-20T22:45:54.0000000+00:00'
+- author: SirCannonFodder
+  changes:
+    - type: Tweak
+      message: Station AI now starts on Crewsimov to stop it from vaildhunting so much.
+  id: 691
+  time: '2026-07-21T00:20:07.0000000+00:00'
